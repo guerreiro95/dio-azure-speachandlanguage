@@ -1,12 +1,12 @@
 # Desafio: Análise de Fala e Linguagem Natural com Azure AI
 
-## 💡 Descrição
+##  Descrição
 
 Este repositório contém a entrega do desafio prático da plataforma **DIO.me**, focado no uso das ferramentas **Azure Speech Studio** e **Language Studio**. O objetivo principal foi praticar a criação de soluções baseadas em **inteligência artificial aplicada à fala e linguagem natural**, além de reunir anotações e aprendizados adquiridos durante a jornada.
 
 ---
 
-## 🧠 Objetivos do Laboratório
+##  Objetivos do Laboratório
 
 - Explorar e aplicar os recursos do **Azure Speech Studio** para análise de fala.
 - Utilizar o **Azure Language Studio** para compreender e aplicar técnicas de linguagem natural.
@@ -15,26 +15,21 @@ Este repositório contém a entrega do desafio prático da plataforma **DIO.me**
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 - [Microsoft Azure](https://azure.microsoft.com/)
-  - Speech Studio
-  - Language Studio
-- Navegador Web
+- Grupo de Recursos Azure
+- Speech Studio
+- Language Studio
 - Conta Microsoft Azure
 
 ---
 
-## 📚 Conteúdo Desenvolvido
+##  Conteúdo Desenvolvido
 
-- ✅ Anotações detalhadas sobre o uso das ferramentas
-- ✅ Casos de uso e testes realizados com transcrição de fala
-- ✅ Análise de sentimentos e entidades com Language Studio
-- ✅ Prints e evidências organizadas na pasta `/images`
+-  Anotações detalhadas sobre o uso das ferramentas
+-  Casos de uso e testes realizados com transcrição de fala
+-  Análise de sentimentos e entidades com Language Studio
+-  Prints e evidências organizadas na pasta `/images`
 
----
-
-## 🖼️ Imagens e Evidências (Opcional)
-
-As imagens e capturas de tela que ilustram a execução das ferramentas estão disponíveis na pasta:
 
