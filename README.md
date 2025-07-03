@@ -31,5 +31,3 @@ Este repositório contém a entrega do desafio prático da plataforma **DIO.me**
 -  Casos de uso e testes realizados com transcrição de fala
 -  Análise de sentimentos e entidades com Language Studio
 -  Prints e evidências organizadas na pasta `/images`
-
-
